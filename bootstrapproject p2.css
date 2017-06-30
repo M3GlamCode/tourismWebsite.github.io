@@ -1,0 +1,111 @@
+body{
+	background: url(tourismpics/Wildebeests.jpg);
+	background-attachment: scroll;
+	background-size: 100%;
+	
+}
+
+nav{
+	background-color: #404040 ;
+	
+}
+
+.img{
+	width: 47%;
+	height: 350px;
+	border: 5px solid #808080;
+	border-style: inset;
+	margin: 10px;
+	border-radius: 15px;
+
+}
+
+#imgs{
+	margin: 0 auto;
+	border: 5px solid #99cc33;
+	background-color: #ffffcc;
+	width: 80%;
+	height: 1220px;
+	padding: 30px;
+	border-radius: 10px;
+	
+}
+
+#h12{
+	font-size: 50px;
+	font-family: lucida handwriting;
+	width: 80%;
+	height: 110px;
+	margin: 0 auto;
+	background-color: #99cc33;
+	border: 2px ridge grey;
+	border-style: outset;
+	border-radius: 100px;
+	color: white;
+	text-shadow: 2px 2px 5px black;
+
+}
+
+.img1{
+	float: left;
+	opacity: 0.8
+	
+}
+
+.img2{
+	float: right;
+	opacity: 0.8
+}
+
+.img3{
+	float: left;
+	opacity: 0.8
+}
+
+.img4{
+	float: right;
+	opacity: 0.8
+}
+
+.img5{
+	float: left;
+	opacity: 0.8
+}
+
+.img6{
+	float: right;
+	opacity: 0.8
+}
+
+.img1:hover{
+	opacity: 1.0;
+} 
+
+.img2:hover{
+	opacity: 1.0;
+}
+
+.img3:hover{
+	opacity: 1.0;	
+} 
+
+.img4:hover{
+	opacity: 1.0;
+}
+
+.img5:hover{
+	opacity: 1.0;
+} 
+
+.img6:hover{
+	opacity: 1.0;
+}
+
+#h3{
+	background-color: #909090;
+	width: 50%;
+	margin: 0 auto;
+	border:1px solid grey;
+	border-radius: 50%;
+}
+

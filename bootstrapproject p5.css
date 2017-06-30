@@ -1,0 +1,103 @@
+body{
+	background: url(tourismpics/Kenyaflag.png);
+}
+
+
+.img{
+	width: 300px;
+	height: 200px;
+	border: 10px ridge;
+}
+
+.div1{
+	width: 80%;
+	margin: 0 auto;
+	background-color: #99cc33;
+	overflow: auto;
+	padding: 10px;
+	border: 5px solid grey;
+	border-style: outset;
+	border-radius: 20px;
+}
+
+#img1{
+	float: left;
+	
+}
+
+#tt{
+	width:40%;
+	margin: 0 auto;
+	background-color: black;
+	float: left;
+	margin: 12px;
+	color: white;
+	text-shadow: 4px 4px 5px red;
+	border-radius: 5px;
+
+}
+
+#img2{
+	float: right;
+	
+}
+
+div.row{
+	width: 80%;
+	margin: 0 auto; 
+	background-color: #ffffcc;
+	border: 5px solid #99cc33;
+	border-style: inset;
+	border-radius: 10px;
+}
+
+#col1{
+	background-color: #FFFF99;
+}
+
+#col2{
+	background-color: ;
+
+}
+
+li{
+	list-style-type: none;
+}
+
+
+#f1{
+	border: 3px solid red;
+	border-radius: 10px;
+	border-style: inset;
+	padding: 30px;
+	 
+}
+
+.legend{
+	text-align: center;
+	color: #99cc33;
+}
+
+.form{
+	background-color: #FFFF99;
+}
+
+#dc{
+	background-color: #99cc33;
+	font-family: algerian;
+}
+
+.a:hover{
+	text-decoration: none;
+	color: red;
+}
+
+#submit:hover{
+	background-color: lime;
+	color: white;
+}
+
+#boxshadow:hover{
+	box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.3);
+}
+

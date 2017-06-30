@@ -1,0 +1,95 @@
+
+body{
+	background: url(tourismpics/Maasaipeople.jpg);
+	background-attachment: scroll;
+	
+
+}
+
+
+.table1{
+	width: 70%;
+	height: 200px;
+	background-color: #E80000;
+	margin: 0 auto;
+}
+
+#table{
+	width: 80%;
+	margin: 0 auto;
+	
+}
+
+#h14{
+	font-size: 50px;
+	font-family: castellar;
+	color: white;
+	text-shadow: 2px 2px 7px #0066CC;
+	text-decoration: underline;
+}
+
+a:hover{
+	text-decoration: none;
+	background-color: #66CCFF;
+	color: white;
+}
+
+
+#stars li{
+	display: inline;
+	list-style-type: none;
+	color: gold;
+}
+
+#g1{
+	border-style: 3px ridge #99cc33;
+	border-style: inset;
+	background-color: #E00000;
+	height: 300px;
+	
+	
+}
+
+#g2{
+	border-style: 3px ridge #99cc33;
+	border-style: inset;
+	background-color: #E00000;
+	height: 300px;
+	
+}
+
+#g3{
+	border-style: 3px ridge #99cc33;
+	border-style: inset;
+	background-color: #E00000;
+	height: 300px;
+	
+
+}
+
+div.row{
+	width:80%;
+	height: 300px;
+	margin: 0 auto;
+	background-color: black;
+}
+
+.pp{
+	color: white;
+	font-size: 15px;
+	text-align: justify;
+}
+
+.phr{
+	color: white;
+
+}
+
+#phr{
+	background-color: #99cc33;
+}
+
+#hh{
+	background-color: #330000;
+	color: white;
+}

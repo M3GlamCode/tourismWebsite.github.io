@@ -1,0 +1,52 @@
+/*this is the editing for page 1 only*/
+
+.da{
+	background-color: #ffffcc;
+	border: 5px solid #99cc33;
+	border-style: outset;
+	width: 60%;
+	margin: 0 auto;
+
+
+} 
+
+#h11{
+	font-size: 50px;
+	font-family: castellar;
+	color: white;
+	background-color: #99cc33;
+	width: 60%;
+	height: 60px;
+	margin: 0 auto;
+	text-shadow: 2px 2px 5px black;
+	border-radius: 5px;
+
+
+}
+
+.da2{
+	width: 60%;
+	background-color: #ffffcc;
+	border: 5px solid #99cc33;
+	border-style: outset;
+	margin: 0 auto;
+
+}
+
+.bb{
+	background-color: #808080;
+
+}
+#a{
+	color: white;
+}
+
+#a:hover{
+	text-decoration: none;
+	color: blue;
+}
+
+body{
+	background: url(tourismpics/Lion.jpg);
+	
+}
